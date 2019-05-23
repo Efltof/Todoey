@@ -33,7 +33,7 @@ class TodoListViewController: UITableViewController {
         itemArray.append(newItem3)
         
         loadItem()
-        
+//
 //        if let items = defaults.array(forKey: "TodoListArray") as? [Item] {
 //            itemArray = items
 //        }
